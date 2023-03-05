@@ -16,7 +16,7 @@
 title: Kirkezz | Maze Visualizer
 email: "kirkezzscp@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Страница с полезной информацией, касающейся моего школьного проекта.
+  Страница с полезной информацией, касающейся моего проекта.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mazes.kirkezz.ru"
 github_username:  kirkezz
