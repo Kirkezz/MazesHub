@@ -21,9 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mazes.kirkezz.ru"
 github_username:  kirkezz
 
-repository: "Kirkezz/Mazes"
-repository_url: "https://github.com/Kirkezz/MazesHub"
-
 # Build settings
 plugins:
   - jekyll-feed
